@@ -64,16 +64,16 @@
 //
 //echo crypt($pass, $db_pass);
 
-$passport = 'E0000220';
-$passport = str_split($passport);
-$tmp = '';
-$flag = false;
-foreach ($passport as $l) {
-    if (((int) $l) > 0) {
-        $flag = true;
-    }
-    if ($flag) {
-        $tmp .= $l;
-    }
-}
-echo $tmp;
+//$passport = 'E0000220';
+//$passport = str_split($passport);
+//$tmp = '';
+//$flag = false;
+//foreach ($passport as $l) {
+//    if (((int) $l) > 0) {
+//        $flag = true;
+//    }
+//    if ($flag) {
+//        $tmp .= $l;
+//    }
+//}
+//echo $tmp;
