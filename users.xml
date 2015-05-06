@@ -12,4 +12,8 @@
         <login>User3</login>
         <password>Pass3</password>
     </user>
+    <user id="4">
+        <login>User4</login>
+        <password>Pass3</password>
+    </user>
 </users>
